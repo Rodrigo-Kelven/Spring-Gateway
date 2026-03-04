@@ -1,0 +1,14 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.example</groupId>
+	<artifactId>project-gateway</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<modules>
+		<module>gateway</module>
+		<module>products</module>
+		<module>pedidos</module>
+	</modules>
+</project>
